@@ -5,5 +5,6 @@ public class DogLauncher {
         Dog dog = new Dog(100);
         dog.makeNoise();
         int i = 10;
+        int k = 2;
     }
 }
